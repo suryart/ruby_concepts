@@ -9,4 +9,12 @@ class Appliance
   def update(changed_state)
     self.state = changed_state
   end
+
+  def on?
+    self.state == :on
+  end
+
+  def off?
+    self.state == :off
+  end
 end

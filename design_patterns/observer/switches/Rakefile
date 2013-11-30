@@ -1,0 +1,13 @@
+namespace :switches do
+  task :default => [:test, :run]
+
+  desc "Runs all the spec"
+  task :test do
+    cmd = "rspec spec"; puts cmd; system cmd
+  end
+
+  desc "Runs the switches program with switches.input as input"
+  task :run do
+    cmd = "ruby lib/switches.rb switches.input"; puts cmd; system cmd
+  end
+end

@@ -2,7 +2,7 @@ class Switch
   include Observer
 
   attr_reader :name, :state
-  # STATES = { :off => :on, :on => :off }
+  STATES = { :off => :on, :on => :off }
 
   def initialize(name, state = :off)
     super()
@@ -14,5 +14,17 @@ class Switch
     return if self.state == new_state
     @state = new_state
     notify_observers
+  end
+
+  def on?
+    self.state == :on
+  end
+
+  def off?
+    self.state == :off
+  end
+
+  def change_state
+    self.state = STATES[state]
   end
 end
