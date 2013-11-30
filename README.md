@@ -8,8 +8,8 @@ Please file an [issue](https://github.com/suryart/ruby_concepts/issues) and we'l
 
 ## Why? Who? What?
 
-Because [Object-oriented Programming(OOP)](http://en.wikipedia.org/wiki/Object-oriented_programming) is well known programming paradigm and can be achieved in many languages. [Ruby](https://www.ruby-lang.org/en/) is one them. As we all know, everything is an object in [Ruby](https://www.ruby-lang.org/en/).
+Because [Object-oriented Programming(OOP)](http://en.wikipedia.org/wiki/Object-oriented_programming) is a well known programming paradigm and can be achieved in many languages. [Ruby](https://www.ruby-lang.org/en/) is one them. As we all know, everything is an object in [Ruby](https://www.ruby-lang.org/en/).
 
 [I](https://github.com/suryart), I love learning new stuff, seriously, that's what I do all the time!
 
-This is just a guide which I(and you could too) find helping and a go-to reference on OOP concepts and implementations in Ruby.
+This is just a guide which I(and you could too) find helful and a go-to reference on OOP concepts and implementations in Ruby.
