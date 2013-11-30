@@ -1,8 +1,8 @@
 # OOP concepts in [Ruby](https://www.ruby-lang.org/en/)
 
-Welcome!! Yes, you heard it right. This repository(currently little) is mainly created for my go-to reference guide for basic(you can consider naive) level to advance level in OOP concepts in ruby.
+Welcome!! Yes, you heard it right. This repository(currently little) is mainly created as my go-to reference guide for basic(you can consider naive) level to advance level in OOP concepts in ruby.
 
-## You didn't like something!/I didn't do something write!
+## You didn't like something!/I didn't do something right!
 
 Please file an [issue](https://github.com/suryart/ruby_concepts/issues) and we'll see how we can fix it. If you didn't like something then we'll surely correct the mistake and sort it out.
 
